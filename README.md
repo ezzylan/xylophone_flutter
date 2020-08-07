@@ -1,2 +1,2 @@
 # xylophone_flutter
-A music app that plays Xylophone sounds.
+A music app made in Flutter that plays Xylophone sounds.
